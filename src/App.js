@@ -1,14 +1,14 @@
 import React from 'react';
 import './assets/styles/index.scss'
 
-import Prueba from './Components/Prueba'
+import Header from './Components/Header'
 
 
 function App() {
   return (
-    <div>
-      <Prueba />
-    </div>
+    <Header 
+      titulo='Cotizador de seguros'
+    />
   );
 }
 
