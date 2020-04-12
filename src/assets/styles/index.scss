@@ -34,3 +34,9 @@ html {
     opacity: 0;
     transform: translateY(-10%);
   }
+
+  #root{
+    display: flex;
+    height: auto;
+    align-items: center;
+  }

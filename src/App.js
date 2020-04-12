@@ -10,8 +10,8 @@ import Resultado from './components/Resultado'
 import Spinner from './components/Spinner'
 
 const Contenedor = styled.div`
-  max-width: 600px; 
-  margin: 0 auto; 
+  width: 60%; 
+  margin: 3rem auto; 
 `;
 
 const ContenedorForumario = styled.div`
